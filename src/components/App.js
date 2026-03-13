@@ -24,6 +24,7 @@ function App() {
 
   return (
     <>
+    <h1 style={{textAlign:"center"}}>CodeLab Live Editor</h1>
       <div className="pane top-pane">
         <Editor
           language="xml"
